@@ -90,7 +90,7 @@ This repository currently documents the research work and its experimental resul
 
 ## Portfolio
 
-[View the visual case study in my ML/AI Engineering portfolio](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/research/image-denoising-transformers).
+[View the visual case study in my ML/AI Engineering portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/research/image-denoising-transformers).
 
 ## Authors
 
